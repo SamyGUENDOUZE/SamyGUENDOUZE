@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @SamyGUENDOUZE
 - 👀 I’m interested in IT in general
-- 🌱 I’m currently learning all stuff about sys/net admin tasks and programming. I also love cybersecurity.
